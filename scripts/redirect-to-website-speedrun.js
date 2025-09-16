@@ -1,0 +1,1 @@
+window.location.replace("https://hhs-hacks.github.io/website-speedrun/");
